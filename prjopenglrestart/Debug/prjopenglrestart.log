@@ -1,0 +1,23 @@
+﻿  Source.cpp
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\libraries\glfw-3.2.1.bin.win32\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(63): warning C4305: 'initializing': truncation from 'double' to 'float'
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(64): warning C4305: 'initializing': truncation from 'double' to 'float'
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(66): warning C4305: 'initializing': truncation from 'double' to 'float'
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(72): warning C4305: '+=': truncation from 'double' to 'float'
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(280): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(281): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(311): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(312): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(588): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(590): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(593): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(601): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(602): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(616): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(617): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(1226): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+i:\year 1\tools for games and animations\togagame\prjopenglrestart\prjopenglrestart\snakesandladderslibrary.h(1270): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  prjopenglrestart.vcxproj -> I:\year 1\tools for games and animations\TOGAgame\prjopenglrestart\Debug\prjopenglrestart.exe
+  prjopenglrestart.vcxproj -> I:\year 1\tools for games and animations\TOGAgame\prjopenglrestart\Debug\prjopenglrestart.pdb (Full PDB)
